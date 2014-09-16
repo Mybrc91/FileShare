@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">File Share</string>
+    <string name="wifi_toast">WIFI is not enabled</string>
+    <string name="action_share">Share</string>
+    <string name="sd_toast">SD Card does not existing</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_back">Back</string>
+</resources>

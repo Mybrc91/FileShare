@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.csyangchsh.fileshare.FileActivity">
+
+    <ListView
+        android:id="@android:id/list"
+        android:background="#ffffffff"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/divider"
+        android:fastScrollEnabled="false"
+        android:headerDividersEnabled="false"
+        android:footerDividersEnabled="false"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    </ListView>
+
+</FrameLayout>
